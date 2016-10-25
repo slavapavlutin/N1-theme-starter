@@ -1,14 +1,13 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "N1-slavapavlutin-theme",
+  "title": "N1 Slava Pavlutin's Theme",
+  "displayName": "N1-SP-THEME",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "Personal theme for N1 email application",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
   },
   "private": true
 }
-
